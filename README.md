@@ -1,4 +1,4 @@
-# About repositories
+# About repo
 I built this PythonProjects for my own practice to exhibit my talents and aid the developer community if anyone want to learn and use these code as a reference.
 
 ## namastemart repo
