@@ -1,0 +1,4 @@
+order_id,order_date,product_id,quantity,sales,city,product_name,price,category,conError
+5,2024-01-01,300,1,50000,Bangalore,table,10000.0,furniture,Amount not matched
+7,2024-01-03,500,6,4500,Hydrabad,fridge,10000.0,electronics,"Amount not matched,invalid city name"
+8,2024-01-24,600,3,30000,Bangalore,,,,"Product_id not found,Amount not matched"
