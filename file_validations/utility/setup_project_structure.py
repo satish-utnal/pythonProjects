@@ -39,7 +39,6 @@ def create_main_dir(main_dir):
     :param main_dir: receives main projects directory names to create like data, log
     :return: No return as it just creates directory structure
     """
-    print(main_dir)
     try:
         if not os.path.isdir('../' + main_dir):
             os.mkdir('../' + main_dir)
